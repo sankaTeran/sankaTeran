@@ -15,7 +15,7 @@ Hello! I'm Teran Madusanka Gunarathna, a passionate developer with a love for co
 
 - **Programming Languages**: [ Python, JavaScript, Java and PHP.]
 - **Tools & Technologies**: [ Git, Docker, Node.js]
-- **Frameworks**: [React]
+- **Frameworks**: [React,Angular]
 - **Databases**: [MySQL, MongoDB]
 - **Other**: [DevOps, AWS]
 
