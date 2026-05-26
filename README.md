@@ -1,6 +1,6 @@
 # Who Am I?
 
-Hello! I'm Teran Madusanka Gunarathna, a passionate developer with a love for coding, problem-solving, and continuous learning.
+Hello! I'm Teran Madusanka Gunarathna, a passionate Frontend developer with a love for coding, problem-solving, and continuous learning.
 
 ## About Me
 
