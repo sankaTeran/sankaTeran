@@ -4,7 +4,7 @@ Hello! I'm Teran Madusanka Gunarathna, a passionate developer with a love for co
 
 ## About Me
 
-- 🔭 I’m currently working on [Attendance plan Application that use Powerapps Platform]
+- 🔭 I’m currently working on Grocerry Delivery App that based on MERN.
 - 🌱 I’m currently learning [AWS]
 - 👯 I’m looking to collaborate on [Frontend developer Projects]
 - 💬 Ask me about [AWS, React and Lowcode Projects]
